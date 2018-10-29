@@ -7,3 +7,7 @@ example:
 good morning (when it's morning)
 good afternoon (if you have lunch)
 good night (if it's night time)
+
+
+
+. 
